@@ -6,11 +6,13 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Phoeenix05/count.svg?"  />
-</div>
+</div> -->
 
 ###
+
+<h2 align="left">About me</h2>
 
 I am a 18 year old hobbyist programmer from Finland.
   
