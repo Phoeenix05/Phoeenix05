@@ -16,7 +16,7 @@
 
 I am a 18 year old hobbyist programmer from Finland.
   
-I'm currently working on a manga reader and tracker called [Mangadex Reader](https://github.com/phoeenix05/mangadex-reader).
+I'm currently working on a manga reader and tracker called [Sakura](https://github.com/phoeenix05/sakura).
 
 ###
 
