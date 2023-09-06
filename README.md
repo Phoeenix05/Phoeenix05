@@ -10,6 +10,8 @@
   <img src="https://profile-counter.glitch.me/Phoeenix05/count.svg?"  />
 </div> -->
 
+<h2 align="left">Majorly procrastinating and not doing anything productive 😃</h2>
+
 ###
 
 <h2 align="left">About me</h2>
