@@ -11,7 +11,6 @@
 </div> -->
 
 <h2 align="left">Majorly procrastinating and not doing anything productive 😃</h2>
-VPN if you need one [SurfShark](https://surfshark.club/friend/FvhuevB9]. Also helps me out a bit.
 
 ###
 
