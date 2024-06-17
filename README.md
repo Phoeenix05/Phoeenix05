@@ -16,7 +16,7 @@
 
 <h2 align="left">About me</h2>
 
-I am a 18 year old hobbyist programmer from Finland.
+I am a 19 year old hobbyist programmer from Finland.
   
 I'm currently working on a manga reader and tracker called [Sakura](https://github.com/phoeenix05/sakura).
 
