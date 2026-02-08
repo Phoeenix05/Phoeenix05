@@ -16,9 +16,10 @@
 
 <h2 align="left">About me</h2>
 
-I am a 19 year old hobbyist programmer from Finland.
-  
-I'm currently working on a manga reader and tracker called [Sakura](https://github.com/phoeenix05/sakura).
+I am a 20 year old hobbyist programmer from Finland.
+
+I'm currently procrastinating every single thing...
+<!-- I'm currently working on a manga reader and tracker called [Sakura](https://github.com/phoeenix05/sakura). -->
 
 ###
 
@@ -28,12 +29,12 @@ I'm currently working on a manga reader and tracker called [Sakura](https://gith
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
+  <!-- <img width="12" />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> -->
 </div>
 
 ###
